@@ -1,0 +1,29 @@
+﻿  AnimatedSpriteRendererComponent.cpp
+  Application.cpp
+  AppWindow.cpp
+  BaseComponent.cpp
+  BaseScene.cpp
+  GameObject.cpp
+  GameObjectCollection.cpp
+  GameScene.cpp
+  GameSceneOne.cpp
+  ASpriteScene.cpp
+  InputSystem.cpp
+  LoadGameScene.cpp
+  main.cpp
+  ProgressBarComponent.cpp
+  RenderComponent.cpp
+  ResourceAllocator.cpp
+  SceneStateMachine.cpp
+  SplashScene.cpp
+  SpriteRendererComponent.cpp
+  Time.cpp
+D:\GitHub Local Repository (IL)\GameEngine_KE\project\ocm_base\Time.cpp(12,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GitHub Local Repository (IL)\GameEngine_KE\project\ocm_base\Time.cpp(18,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  TransformComponent.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ocm_base.vcxproj -> D:\GitHub Local Repository (IL)\GameEngine_KE\project\Build\ocm_base_Debug.exe

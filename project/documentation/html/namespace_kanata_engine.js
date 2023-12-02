@@ -1,0 +1,37 @@
+var namespace_kanata_engine =
+[
+    [ "AnimatedSpriteRenderer", "class_kanata_engine_1_1_animated_sprite_renderer.html", "class_kanata_engine_1_1_animated_sprite_renderer" ],
+    [ "Application", "class_kanata_engine_1_1_application.html", "class_kanata_engine_1_1_application" ],
+    [ "AppWindow", "class_kanata_engine_1_1_app_window.html", "class_kanata_engine_1_1_app_window" ],
+    [ "BaseComponent", "class_kanata_engine_1_1_base_component.html", "class_kanata_engine_1_1_base_component" ],
+    [ "BaseScene", "class_kanata_engine_1_1_base_scene.html", "class_kanata_engine_1_1_base_scene" ],
+    [ "GameObjectCollection", "class_kanata_engine_1_1_game_object_collection.html", "class_kanata_engine_1_1_game_object_collection" ],
+    [ "InputSystem", "class_kanata_engine_1_1_input_system.html", "class_kanata_engine_1_1_input_system" ],
+    [ "ProgressBarComponent", "class_kanata_engine_1_1_progress_bar_component.html", "class_kanata_engine_1_1_progress_bar_component" ],
+    [ "RenderComponent", "class_kanata_engine_1_1_render_component.html", "class_kanata_engine_1_1_render_component" ],
+    [ "SceneStateMachine", "class_kanata_engine_1_1_scene_state_machine.html", "class_kanata_engine_1_1_scene_state_machine" ],
+    [ "SpriteRendererComponent", "class_kanata_engine_1_1_sprite_renderer_component.html", "class_kanata_engine_1_1_sprite_renderer_component" ],
+    [ "Texture", "class_kanata_engine_1_1_texture.html", "class_kanata_engine_1_1_texture" ],
+    [ "TextureAllocator", "class_kanata_engine_1_1_texture_allocator.html", null ],
+    [ "Time", "class_kanata_engine_1_1_time.html", null ],
+    [ "TransformComponent", "class_kanata_engine_1_1_transform_component.html", "class_kanata_engine_1_1_transform_component" ],
+    [ "Vec2", "struct_kanata_engine_1_1_vec2.html", "struct_kanata_engine_1_1_vec2" ],
+    [ "Vec3", "struct_kanata_engine_1_1_vec3.html", "struct_kanata_engine_1_1_vec3" ],
+    [ "Vector2", "struct_kanata_engine_1_1_vector2.html", "struct_kanata_engine_1_1_vector2" ],
+    [ "WindowData", "struct_kanata_engine_1_1_window_data.html", "struct_kanata_engine_1_1_window_data" ],
+    [ "WindowEventCallbackFn", "namespace_kanata_engine.html#a824426a58737338cfcad92f3053a63ba", null ],
+    [ "WindowsEvent", "namespace_kanata_engine.html#ac42d3f44723dbeaa771dac301b53a285", [
+      [ "eventUnknown", "namespace_kanata_engine.html#ac42d3f44723dbeaa771dac301b53a285aed784ad0d589005bc8a00f6c6ad5342d", null ],
+      [ "eventClose", "namespace_kanata_engine.html#ac42d3f44723dbeaa771dac301b53a285ad038c9f82bce28552923e0285bdd5ae1", null ],
+      [ "eventFramebufferResize", "namespace_kanata_engine.html#ac42d3f44723dbeaa771dac301b53a285a7cf911c899251669a75086b288772d22", null ]
+    ] ],
+    [ "framebufferSizeCallback", "namespace_kanata_engine.html#aad865028cab60d53a4fd26973809bcd1", null ],
+    [ "loadTexture", "namespace_kanata_engine.html#a97e57dcdf3557d47b75a7bd47d30544b", null ],
+    [ "b", "namespace_kanata_engine.html#a13c91948a47a70b4d3867f9746d00a64", null ],
+    [ "g", "namespace_kanata_engine.html#a35013e11952e3862f2f44e1e15a8b861", null ],
+    [ "isRunning", "namespace_kanata_engine.html#a7dbc35226e3c998d0e5864cd7eb31f73", null ],
+    [ "r", "namespace_kanata_engine.html#a92715a591e1334b300679450cf525fe0", null ],
+    [ "targetFrameRate", "namespace_kanata_engine.html#aca7a3fcc71fb79d9dd8cfb939cb7789e", null ],
+    [ "x", "namespace_kanata_engine.html#a58a5c61dc1b60cbc5e54dae00c6b1985", null ],
+    [ "y", "namespace_kanata_engine.html#aba5ce5784261fbb3a1f22fb7e9dbaf74", null ]
+];

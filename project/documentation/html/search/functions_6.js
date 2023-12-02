@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gameobject_0',['GameObject',['../class_game_object.html#ad16ddfcfcc99c2bd233a2d3b5b61d4ea',1,'GameObject']]],
+  ['gameobjectchange_1',['gameObjectChange',['../class_first_scene_1_1_empty_obj___component.html#a68b9d6efed41c8c2d6106c85c3b66f46',1,'FirstScene::EmptyObj_Component']]],
+  ['gameobjectcollection_2',['GameObjectCollection',['../class_kanata_engine_1_1_game_object_collection.html#a0662377bd10f6307c2c1d4cca7ba2589',1,'KanataEngine::GameObjectCollection']]],
+  ['gameobjectrevert_3',['gameObjectRevert',['../class_first_scene_1_1_empty_obj___component.html#a702083212b13ebb5c42908f22eab2816',1,'FirstScene::EmptyObj_Component']]],
+  ['getactivegameobjects_4',['getActiveGameObjects',['../class_kanata_engine_1_1_game_object_collection.html#ad451741be20e105f7c169d12aeb14ae7',1,'KanataEngine::GameObjectCollection']]],
+  ['getanykey_5',['getAnyKey',['../class_kanata_engine_1_1_input_system.html#a746ff723dac6f4aea3160e49db0e8eb5',1,'KanataEngine::InputSystem']]],
+  ['getanykeydown_6',['getAnyKeyDown',['../class_kanata_engine_1_1_input_system.html#aade347a34d8ecd0403144daa687828bc',1,'KanataEngine::InputSystem']]],
+  ['getcomponent_7',['getComponent',['../class_game_object.html#af0b27dd73cd82362eda62b94d4ebb761',1,'GameObject']]],
+  ['getdeltatime_8',['getDeltaTime',['../class_kanata_engine_1_1_time.html#a74f41f8fab3f98a2db04021eada57454',1,'KanataEngine::Time']]],
+  ['getheight_9',['getHeight',['../class_kanata_engine_1_1_texture.html#a0313c40fe9f088f821a3ad97231c042e',1,'KanataEngine::Texture']]],
+  ['getkey_10',['getKey',['../class_kanata_engine_1_1_input_system.html#afe60085ae3972c69addc302d062c5ee3',1,'KanataEngine::InputSystem']]],
+  ['getkeydown_11',['getKeyDown',['../class_kanata_engine_1_1_input_system.html#ad328a76acecf55434f651aa4ce3ef4aa',1,'KanataEngine::InputSystem']]],
+  ['getkeyup_12',['getKeyUp',['../class_kanata_engine_1_1_input_system.html#a5bd114a32ab751e6c6e89eb9c793e676',1,'KanataEngine::InputSystem']]],
+  ['getmousekey_13',['getMouseKey',['../class_kanata_engine_1_1_input_system.html#a2f3df188534386c28aab10f4171fd1ff',1,'KanataEngine::InputSystem']]],
+  ['getmousekeydown_14',['getMouseKeyDown',['../class_kanata_engine_1_1_input_system.html#a9106b489cf97713235c2647d654f4992',1,'KanataEngine::InputSystem']]],
+  ['getmousekeyup_15',['getMouseKeyUp',['../class_kanata_engine_1_1_input_system.html#a9fe35ba5bc2ab8fd2e19184db510d0eb',1,'KanataEngine::InputSystem']]],
+  ['getname_16',['getName',['../class_animation_showcase_scene_1_1_a_sprite_scene.html#aab827d31d46017fa6a24f9201bc92478',1,'AnimationShowcaseScene::ASpriteScene::getName()'],['../class_kanata_engine_1_1_base_scene.html#a0ed84a99b800feb1fe975dfaf7243f65',1,'KanataEngine::BaseScene::getName()'],['../class_game_object.html#a7b5b5ca6b3754cdfb175cd1938c77f10',1,'GameObject::getName()'],['../class_first_scene_1_1_game_scene.html#a190ff39b71780ef8cebefc874079edb8',1,'FirstScene::GameScene::getName()'],['../class_second_scene_1_1_game_scene_one.html#a43087f8b388026dabb36ae72a6123fc1',1,'SecondScene::GameSceneOne::getName()'],['../class_loading_scene_1_1_load_game_scene.html#ab89631177f2228f677c50acc577627ec',1,'LoadingScene::LoadGameScene::getName()'],['../class_splash_art_scene_1_1_splash_scene.html#ac6c8d322384644d3d1ffba367cb048e0',1,'SplashArtScene::SplashScene::getName()']]],
+  ['getrefcount_17',['getRefCount',['../class_kanata_engine_1_1_texture.html#af59a7d14e361afd99f0e09f8585cd78a',1,'KanataEngine::Texture']]],
+  ['getrotation_18',['getRotation',['../class_kanata_engine_1_1_transform_component.html#a650b4be9ff2c5c2bb2dff0064c4266e0',1,'KanataEngine::TransformComponent']]],
+  ['getwidth_19',['getWidth',['../class_kanata_engine_1_1_texture.html#a3acd5156542523f0cfded75265a0f8f2',1,'KanataEngine::Texture']]],
+  ['getx_20',['getX',['../class_kanata_engine_1_1_transform_component.html#a8c4dca2e161a899bdecde1105d23ee49',1,'KanataEngine::TransformComponent']]],
+  ['gety_21',['getY',['../class_kanata_engine_1_1_transform_component.html#ab32dc68666f35955b00549da0dadc63d',1,'KanataEngine::TransformComponent']]]
+];
